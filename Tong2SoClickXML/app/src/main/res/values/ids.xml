@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="edta" type="id" />
+    <item name="edtb" type="id" />
+    <item name="bttong" type="id" />
+    <item name="tvS" type="id" />
+    <item name="btSum" type="id" />
+    <item name="tvSum" type="id" />
+</resources>
